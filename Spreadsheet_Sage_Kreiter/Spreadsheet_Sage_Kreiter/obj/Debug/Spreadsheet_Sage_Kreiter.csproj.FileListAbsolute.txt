@@ -1,0 +1,13 @@
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.csproj.AssemblyReference.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.Form1.resources
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.Properties.Resources.resources
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.csproj.GenerateResource.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.csproj.CoreCompileInputs.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\bin\Debug\Spreadsheet_Sage_Kreiter.exe.config
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\bin\Debug\Spreadsheet_Sage_Kreiter.exe
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\bin\Debug\Spreadsheet_Sage_Kreiter.pdb
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\bin\Debug\SpreadsheetEngine.dll
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.csproj.CopyComplete
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.exe
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\Spreadsheet_Sage_Kreiter\obj\Debug\Spreadsheet_Sage_Kreiter.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uT/fp53RkJbvE9y696kk+o4xxgziwNMk2lANqor3+VVpADBeWF77uINkYYKYad6mCugvw2Y3/kgn3PRWJDqsbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagek\\git\\cpts321-hws\\Spreadsheet_Sage_Kreiter\\ExpressionTreeRunner\\ExpressionTreeRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagek\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

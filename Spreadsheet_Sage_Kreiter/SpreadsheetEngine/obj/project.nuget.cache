@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bodKO+6FrZQIgLR18/fPWOWNqcKuJp07Iupzbo+aFInhPZa/kKlbLhVxN9PTef3JibUWaM2nN7oUNYmFVvKxhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagek\\git\\cpts321-hws\\Spreadsheet_Sage_Kreiter\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sagek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sagek\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

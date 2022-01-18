@@ -1,0 +1,10 @@
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.deps.json
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.dll
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.pdb
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.dll
+C:\Users\sagek\git\cpts321-hws\Spreadsheet_Sage_Kreiter\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.pdb
